@@ -1,0 +1,16 @@
+{
+  "name": "the-game-of-life",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "stard:dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anton Zakharov",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
